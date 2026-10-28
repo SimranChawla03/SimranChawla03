@@ -1,39 +1,14 @@
-
 <p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Simran Chawla - Developer Profile Banner" />
-</p>
-
-<h1 align="center">Simran Chawla</h1>
-
-<p align="center">
-  <b>Computer Science Engineering Student · Full-Stack Developer</b>
-</p>
-
-<p align="center">
-  Building practical applications, exploring new technologies,
-  <br />
-  and turning ideas into real-world projects.
-</p>
-
-<p align="center">
-  <a href="https://github.com/SimranChawla03">
-    <img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/simran-chawla-a92b9532b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-30363D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/SimranChawla_03/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-30363D?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+  <img src="./profile-banner.png" width="100%" alt="Simran Chawla — Developer Profile" />
 </p>
 
 ---
 
 ## About Me
 
-I'm a Computer Science Engineering student at Ramdeobaba University, Nagpur, interested in software development, problem-solving, and emerging technologies.
+I'm a Computer Science Engineering student at Ramdeobaba University, Nagpur, interested in software development, problem-solving, AI, and cloud technologies.
 
-I enjoy learning by building projects, experimenting with new tools, and continuously improving my engineering skills.
+I enjoy building practical applications, exploring new tools, and continuously improving my engineering skills.
 
 ## Tech Stack
 
@@ -67,10 +42,10 @@ I enjoy learning by building projects, experimenting with new tools, and continu
 
 | Area | Focus |
 |---|---|
-| Full-stack Development | Building and improving web applications |
-| Data Structures & Algorithms | Strengthening problem-solving skills |
+| Full-Stack Development | Building practical web applications |
+| Data Structures & Algorithms | Improving problem-solving skills |
 | Cloud & DevOps | Learning deployment and infrastructure |
-| AI Applications | Exploring practical uses of AI |
+| AI Applications | Exploring practical AI solutions |
 
 ---
 
